@@ -4,8 +4,11 @@
 # Temp files
 /tmp/
 
-# Build files
+# Build files (final archive)
 /build/
+
+# Build workspace (artifacts + incremental build stamps)
+/work/
 
 # VSCode
 /.vscode/
